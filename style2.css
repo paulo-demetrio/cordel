@@ -1,0 +1,72 @@
+@charset "UTF-8";
+/*shorthand do background
+background-color  cor 
+background-img    imagem 
+background-position   posiçao da imagem
+background-repeat   repetir imagem 
+background-size    tamanho ou tipo da imagem
+background-attachsent  fixa a imagem 
+*/
+
+
+html{margin: -2%;
+height: 10px;}
+
+body{height: 10%;
+background-color: black;}
+
+header{background-color: black;
+color: white;
+padding-top: 20px;
+margin-bottom: 0%;
+}
+
+header>h1{text-align: center;
+margin-bottom: 1px;
+font-variant: small-caps;}
+
+header>p{text-align: center;
+margin-top: 5px;
+padding-bottom: 35px;}
+
+header>p>a{color: white;}
+
+a{text-decoration: none;}
+
+.main{background-color: rgb(255, 255, 255);
+    color: black;
+width: 99%;
+margin-left: 2px;
+margin-right: 1px;
+padding-top: 10%;
+padding-bottom: 10%;}
+
+#main{background-image: url('img/imagens/background001.jpg');
+background-size: cover;
+background-position: right center;
+padding-top: 8%;
+padding-bottom: 15%;
+color: white;
+background-attachment: fixed;}
+
+
+
+main>div{background-color: rgba(0, 0, 0, 0.295);
+margin-right: 65%;
+padding-left: 22px;
+border-radius: 8px;
+padding-top: 10px;
+padding-bottom: 10px;}
+
+main>p{margin-left: 10px;
+
+}
+
+footer{background-color: white;
+    padding-top: 10%;
+    padding-bottom: 1px;
+    padding-left: 4%;
+}
+
+
+
