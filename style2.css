@@ -78,6 +78,57 @@ background-position: bottom right;
 width: 101%;
 height: 100%;}
 
+#footer1{background-image: url('img/imagens/background002.jpg');
+    background-size: cover;
+    background-position: right center;
+    padding-top: 8%;
+    padding-bottom: 15%;
+    color: white;
+    background-attachment: fixed;
+    margin-right: -6px;}
+
+
+#footer1> div {background-color: rgba(0, 0, 0, 0.295);
+
+    padding-left: 22px;
+    padding-right: 10px;
+    border-radius: 8px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin: 0%;
+    width: 190px;
+  
+}
+
+
+
+
+
+
+
+
+#footer>p{background-color: rgb(255, 255, 255);
+    padding-top: 3%;
+    padding-bottom: 1px;
+    padding-left: 5%;
+
+margin: -1px;}
+
+#footer2{background-color: white;
+    padding-top: 10%;
+    padding-bottom: 1px;
+    padding-left: 5%;
+    margin: -4px;}
+
+
+
+
+
+
+
+
+
+
 
 
 
